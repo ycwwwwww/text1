@@ -1,0 +1,14 @@
+import tools
+
+while True
+    tools.show_menu()
+    action_str=input("请选择")
+    print("您是%s"%action_str)
+    if action_str in["1","2","3"]
+        if action_str == "1";
+            pass
+        elif action_str == "2"
+            pass
+        elif action_str == "3"
+            pass
+    elif 
